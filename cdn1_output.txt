@@ -1,0 +1,3 @@
+Number of Served requests: 3100522
+Size of transferred data: 61.0243 GB
+CDN cost: 27.95 Euros
